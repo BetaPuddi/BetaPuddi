@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/BetaPuddi?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FLondon)
+![Metrics](https://metrics.lecoq.io/BetaPuddi?template=classic&habits=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Europe%2FLondon)
 
 <!--
 **BetaPuddi/BetaPuddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
