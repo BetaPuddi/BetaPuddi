@@ -17,6 +17,8 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -29,3 +31,13 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/London
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+          plugin_projects: yes
+          plugin_projects_descriptions: yes
+          plugin_projects_limit: 4
