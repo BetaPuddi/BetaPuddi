@@ -1,5 +1,6 @@
+<!--
 [![wakatime](https://wakatime.com/badge/user/78278a7d-d138-4296-ba7e-c4e3f394c208/project/7777d69c-6ee8-4c6a-ac59-6eedc1bf0e39.svg)](https://wakatime.com/badge/user/78278a7d-d138-4296-ba7e-c4e3f394c208/project/7777d69c-6ee8-4c6a-ac59-6eedc1bf0e39)
-![Metrics](https://metrics.lecoq.io/BetaPuddi?template=classic&achievements=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon)
+![Metrics](https://metrics.lecoq.io/BetaPuddi?template=classic&achievements=1&habits=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon) -->
 
 <!--
 **BetaPuddi/BetaPuddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
